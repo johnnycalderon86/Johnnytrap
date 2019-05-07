@@ -1,0 +1,93 @@
+div .buttons{
+    text-align: center;
+    justify-content: center;
+   
+}
+
+
+
+
+.button-medium{
+    color:rgb(241, 241, 241);
+    border: 1px solid gray;
+    border-radius: 50px;
+    padding: 10px 15px;
+    font-weight: lighter;
+    opacity:0.6;
+    background-color: black
+}
+
+.button-medium:hover {
+    opacity:1;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+
+.button-medium:link{
+    text-decoration: none;
+} 
+.button-twitter{
+    color:gray;
+    border: 1px solid gray;
+    border-radius: 50px;
+    padding: 10px 15px;
+    font-weight: lighter;
+    opacity:0.6;
+    background-color: aqua;
+}
+
+.button-twitter:hover {
+    opacity:1;
+    text-decoration: none;
+    color: rgb(252, 252, 252);
+
+}
+.button-twitter:link{
+    text-decoration: none;
+} 
+
+.button-johnnytrap{
+    color:rgb(253, 253, 253);
+    border: 1px solid gray;
+    border-radius: 50px;
+    padding: 10px 15px;
+    font-weight: lighter;
+    opacity:0.6;
+    font-family: 'Share Tech Mono', monospace;
+    background-color: dodgerblue;
+}
+
+.button-johnnytrap:hover {
+    opacity:1;
+    text-decoration: none;
+    color: black;
+
+}
+
+.button-johnnytrap:link{
+    text-decoration: none;
+} 
+
+.button-sophie{
+    color:rgb(253, 253, 253);
+    border: 1px solid rgb(255, 253, 253);
+    border-radius: 20px;
+    padding: 10px 15px;
+    font-weight: bolder;
+    opacity:0.6;
+    font-family: 'Share Tech Mono', monospace;
+    background-color: rgb(240, 152, 235);
+}
+
+.button-sophie:hover {
+    opacity:1;
+    text-decoration: none;
+    color: rgb(125, 121, 223);
+
+}
+
+.button-sophie:link{
+    text-decoration: none;
+} 
+

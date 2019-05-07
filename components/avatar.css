@@ -1,0 +1,23 @@
+.avatar-medium{
+    border-radius: 50%;
+    width: 50px;
+}
+
+.avatar-small{
+    
+    border-radius: 50%;
+    width: 30px;
+
+}
+
+.avatar-xsmall{
+    
+    border-radius: 50%;
+    width: 20px;
+
+}
+
+.avatar{
+    border-radius: 50%;
+    width: 70px;
+}

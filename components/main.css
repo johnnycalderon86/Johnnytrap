@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Oswald|Playfair+Display');
+@import url(avatar.css);
+@import url(buttons.css);
+@import url(grid.css);
+@import url(forms.css);
+@import url(paragraph.css);
+@import "./navbar.css";
+@import "./Lists.css";
+@import "./h1.css";
+
+ h2, h3, h4{
+    font-family: 'Share Tech Mono', monospace;
+
+}
+
+
+html {
+    scroll-behavior: smooth;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .buttons-red {
+    
+  border: 1px solid gray;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: crimson;
+  color: white;
+     
+    
+    
+   
+}
+
+.buttons-blue {
+  
+    border: 1px solid gray;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: rgb(20, 33, 220);
+    color: white;
+       
+
+
+}
+.buttons-green {
+  
+    border: 1px solid gray;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: rgb(58, 182, 0);
+    color: white;
+       
+
+}
+.buttons-orange {
+  
+    border: 1px solid gray;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: rgb(231, 117, 23);
+    color: white;
+       
+
+}
+.buttons-yellow {
+  
+    border: 1px solid gray;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    background-color: rgb(233, 221, 58);
+    color: white;
+       
+
+}
+
+
+ */

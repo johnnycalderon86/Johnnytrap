@@ -1,7 +1,7 @@
 # Johnnytrap
 Making my own CSS-Framework
 https://johnnycalderondeveloper.github.io/Johnnytrap/
-<p>
+
 .wrapper{
     display:grid;
     grid-template-columns: repeat(auto-fit, minmax(660px,1fr));
@@ -29,4 +29,4 @@ https://johnnycalderondeveloper.github.io/Johnnytrap/
 .wrapper > div:nth-child(odd){
     background-color: rgb(205, 227, 247);
 }
-</p>
+

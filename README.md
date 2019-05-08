@@ -3,7 +3,7 @@ Making my own CSS-Framework
 https://johnnycalderondeveloper.github.io/Johnnytrap/
 
 Grid layout: <br>
-'.wrapper{
+.wrapper{
     display:grid;
     grid-template-columns: repeat(auto-fit, minmax(660px,1fr));
  

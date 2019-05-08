@@ -2,7 +2,7 @@
 Making my own CSS-Framework
 https://johnnycalderondeveloper.github.io/Johnnytrap/
 
-.wrapper{
+>.wrapper{
     display:grid;
     grid-template-columns: repeat(auto-fit, minmax(660px,1fr));
  

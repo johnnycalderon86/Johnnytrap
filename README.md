@@ -1,3 +1,31 @@
 # Johnnytrap
 Making my own CSS-Framework
 https://johnnycalderondeveloper.github.io/Johnnytrap/
+
+.wrapper{
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(660px,1fr));
+ 
+  grid-gap: 1rem;
+  grid-auto-flow: dense;
+   
+    padding: 1em ;
+    grid-column-gap: 0.9em;
+    grid-row-gap:0.9em;
+    
+   
+    
+}
+
+
+
+.wrapper > div{
+    background-color: rgb(228, 228, 228);
+    padding: 1em;
+   border-radius: 20px;
+    
+}
+  
+.wrapper > div:nth-child(odd){
+    background-color: rgb(205, 227, 247);
+}
